@@ -21,8 +21,8 @@ Education
 | Year of graduation | Degree | Institution |
 |:-: | :-: | :-:|
 | 2024 | B.Tech. | Indian Institute of Technology, Goa |
-| 2020 | 12th Standard or equivalent | U.P. Kirana Seva Samiti Vidyalaya, Kanpur |
-| 2018 | 10th Standard or equivalent | U.P. Kirana Seva Samiti Vidyalaya, Kanpur |
+| 2020 | 12th Standard or equivalent | Aklank Kota |
+| 2018 | 10th Standard or equivalent | JNV |
 
 ### 1st Year Cource @IIT Goa
 
